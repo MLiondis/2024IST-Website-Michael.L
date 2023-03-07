@@ -1,5 +1,5 @@
 DIV { 
-border: 1px solid #0000ff;
+    border: 10px solid #000;
 }
 
 #Header {
@@ -8,11 +8,10 @@ border: 1px solid #0000ff;
 	margin-right: auto;
 	margin-left: auto; 
 	background: url(images/banner.png) no-repeat;
-	color:red;
+	color:  red;
 }
 
 #MainContent {
 	width: 800px;
 	margin-right: auto;
-	margin-left: auto;
 }
