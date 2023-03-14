@@ -4,7 +4,7 @@ DIV {
 
 #Header {
 	height: 100px;
-	width: 802px;
+	width: 800px;
 	margin-right: auto;
 	margin-left: auto; 
 	background: url(images/banner.png) no-repeat;
@@ -12,7 +12,7 @@ DIV {
 }
 
 #MainContent {
-	width: 802px;
+	width: 800px;
 	margin-right: auto;
 	margin-left: auto;
 }
