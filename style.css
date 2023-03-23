@@ -34,7 +34,7 @@ DIV {
 
 #FooterRight {
 	float: right;
-	width: 396px; /*49.5%*/
+	width: 380px; /*49.5%*/
 	height: 50px;
 	border: 1px solid red;
 }
